@@ -1,0 +1,101 @@
+.container {
+  max-width: 375px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  padding: 30px 10px 30px 10px;
+  text-align: center;
+}
+
+.title {
+  margin-top: 0;
+  margin-bottom: 5px;
+
+  font-size: 35px;
+  font-weight: 900;
+  color: #fff;
+}
+
+.desc {
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-size: 14px;
+  color: #fff;
+}
+
+.stepsList {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 280px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.stepsItem {
+  width: 63px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  font-size: 17px;
+  font-weight: 900;
+  color: #fff;
+  transition: all 250ms ease;
+}
+
+.stepsItem:not(:last-child) {
+  margin-right: 10px;
+}
+
+.isActive {
+  background-color: #fff;
+  color: #414bdd;
+}
+
+@media screen and (min-width: 1069px) {
+  .container {
+    max-width: 768px;
+    margin-top: 0;
+    display: flex;
+    align-items: top;
+  }
+
+  .secoundaryContainer {
+    width: 50%;
+    text-align: left;
+  }
+
+  .desc {
+    margin-bottom: 0;
+  }
+}
+
+@media screen and (min-width: 1441px) {
+  .container {
+    justify-content: center;
+    align-items: center;
+    max-width: 1600px;
+  }
+
+  .title {
+    font-size: 60px;
+    margin-bottom: 20px;
+  }
+
+  .desc {
+    font-size: 21px;
+  }
+
+  .stepsList {
+    width: auto;
+  }
+
+  .stepsItem {
+    width: 110px;
+    height: 60px;
+
+    font-size: 30px;
+  }
+}

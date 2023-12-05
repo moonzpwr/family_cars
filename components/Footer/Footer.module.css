@@ -1,0 +1,169 @@
+.mainFooter {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+}
+
+.footerContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 375px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.firstsBg {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+
+  background: url(../../images/footer-bg.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.secoundBg {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+
+  background-color: #292b2d;
+}
+
+.copyrirghtContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 375px;
+
+  font-size: 9px;
+  font-weight: 300;
+  padding-top: 20px;
+  color: #d6d6d6;
+}
+
+.socialMedia {
+  display: flex;
+}
+
+.socialMedia li:not(:last-child) {
+  margin-right: 5px;
+}
+
+.socialMedia a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 50px;
+
+  background-color: #8d8d8d;
+}
+
+.adress {
+  color: #fff;
+}
+
+.adressTitle {
+  margin-top: 0;
+  margin-bottom: 20px;
+
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.adressDesc {
+  margin-top: 0;
+  margin-bottom: 0;
+
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.copyrirghtList {
+  display: flex;
+  align-items: center;
+}
+
+.copyrirghtList li {
+  padding-left: 5px;
+  padding-right: 5px;
+
+  border-left: 1px solid #d6d6d6;
+  border-right: 1px solid #d6d6d6;
+}
+
+.secoundContainer {
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 50px;
+}
+
+.rights {
+  width: 1300px;
+
+  text-align: center;
+}
+
+@media screen and (min-width: 1069px) {
+  .footerContainer {
+    flex-wrap: nowrap;
+    max-width: 768px;
+    width: 100%;
+    padding-top: 0px;
+  }
+
+  .copyrirghtContainer {
+    max-width: 768px;
+    width: 100%;
+  }
+
+  .firstContainer {
+    margin-right: 20px;
+  }
+
+  .copyrirghtList {
+    margin-right: 35px;
+  }
+}
+
+@media screen and (min-width: 1441px) {
+  .footerContainer {
+    max-width: 1600px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+
+  .copyrirghtContainer {
+    max-width: 1600px;
+  }
+
+  .adressTitle {
+    font-size: 24px;
+  }
+
+  .adressDesc {
+    font-size: 17px;
+  }
+
+  .copyrirghtContainer {
+    font-size: 15px;
+  }
+
+  .copyrirghtList {
+    margin-right: 150px;
+  }
+
+  .copyrirghtList li {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+
+  .secoundContainer {
+    margin-left: 150px;
+  }
+}

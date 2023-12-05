@@ -1,0 +1,134 @@
+.container {
+  max-width: 375px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px 10px 30px 10px;
+}
+
+.desc {
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+.form {
+  text-align: center;
+}
+
+.formName,
+.formTel {
+  margin-bottom: 20px;
+  padding: 10px;
+  width: 300px;
+  background-color: #f8f8f8;
+  border: 1px solid #d9d9d9;
+  font-size: 15px;
+  font-weight: 400;
+  color: #1f1f1f;
+}
+
+.formTitle {
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-size: 17px;
+  font-weight: 400;
+  color: #1f1f1f;
+}
+
+.radioBlock {
+  margin-bottom: 20px;
+}
+
+.formLabel {
+  font-size: 15px;
+  color: #454ee1;
+  cursor: pointer;
+}
+
+.formLabel:not(:last-child) {
+  margin-right: 25px;
+}
+
+.radioBtn {
+  margin-left: 15px;
+}
+
+.submitBtn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px 40px;
+  background-color: transparent;
+  border: 2px solid #5f67e1;
+  border-radius: 35px;
+
+  font-size: 15px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #5f67e1;
+  cursor: pointer;
+}
+
+.arr {
+  margin-left: 20px;
+}
+
+@media screen and (min-width: 1069px) {
+  .container {
+    max-width: 768px;
+  }
+
+  .formName {
+    margin-right: 30px;
+  }
+
+  .formName,
+  .formTel {
+    margin-bottom: 40px;
+  }
+
+  .sliderBlock,
+  .radioBlock {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+  }
+
+  .formTitle {
+    margin-bottom: 0;
+    margin-right: 25px;
+  }
+}
+
+@media screen and (min-width: 1441px) {
+  .container {
+    max-width: 1600px;
+  }
+
+  .form {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: left;
+  }
+
+  .formName,
+  .formTel {
+    width: 580px;
+    font-size: 17px;
+  }
+
+  .formName {
+    margin-right: 80px;
+  }
+
+  .formSlider {
+    width: 485px;
+  }
+
+  .sliderBlock {
+    margin-right: 80px;
+  }
+
+  .submitBtn {
+    margin-right: 200px;
+  }
+}

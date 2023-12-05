@@ -1,0 +1,132 @@
+.bgContainer {
+  width: 100%;
+
+  background: url(../../images/whyWeBgMobile.jpg);
+  background-size: cover;
+  background-position: right;
+}
+
+.container {
+  max-width: 375px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.sectionTitle {
+  margin-top: 0;
+  margin-bottom: 20px;
+
+  font-size: 20px;
+  font-weight: 900;
+}
+
+.reasonItem {
+  margin-top: 120px;
+  margin-left: 60px;
+}
+
+.reasonTitle {
+  position: relative;
+
+  font-size: 20px;
+  font-weight: 900;
+  color: #157e42;
+  text-transform: uppercase;
+}
+
+.checkSvg {
+  position: absolute;
+  top: -100px;
+  left: -60px;
+}
+
+.aboutUs {
+  display: flex;
+  align-items: center;
+
+  font-size: 12px;
+  font-weight: 900;
+  color: #555fe6;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+
+.arrSvg {
+  margin-left: 10px;
+  transform: scale(0.7);
+}
+
+.reasonDesc {
+  font-size: 12px;
+  font-weight: 600;
+}
+
+@media screen and (min-width: 1069px) {
+  .bgContainer {
+    background: url(../../images/whyWeBg.jpg);
+    background-position: center;
+    background-size: cover;
+  }
+  .container {
+    max-width: 768px;
+    justify-content: center;
+  }
+
+  .sectionTitle {
+    margin-bottom: 0;
+    margin-right: 150px;
+  }
+
+  .reasonDesc {
+    width: 600px;
+  }
+}
+
+@media screen and (min-width: 1441px) {
+  .container {
+    max-width: 1600px;
+  }
+
+  .sectionTitle {
+    margin-right: 340px;
+
+    font-size: 48px;
+  }
+
+  .reasonList {
+    display: flex;
+    margin-top: 130px;
+    margin-bottom: 70px;
+  }
+
+  .reasonItem:not(:last-child) {
+    margin-right: 60px;
+  }
+
+  .reasonTitle {
+    font-size: 32px;
+    font-weight: 900;
+  }
+
+  .aboutUs {
+    font-size: 17px;
+  }
+
+  .reasonDesc {
+    width: 350px;
+
+    font-size: 20px;
+  }
+
+  .arrSvg {
+    transform: scale(1);
+    margin-left: 10px;
+  }
+}

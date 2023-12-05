@@ -1,0 +1,141 @@
+.container {
+  max-width: 375px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px 10px 30px 10px;
+}
+
+.sectionTitle {
+  margin-top: 0;
+  margin-bottom: 20px;
+
+  font-size: 20px;
+  font-weight: 900;
+}
+
+.desc {
+  margin-top: 0;
+  margin-bottom: 20px;
+
+  font-size: 17px;
+}
+
+.cardContainer {
+  margin-bottom: 20px;
+}
+
+.card:not(:last-child) {
+  margin-bottom: 20px;
+}
+
+.card a {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.cardTitle {
+  font-size: 20px;
+  font-weight: 700;
+  color: #4247cf;
+  text-transform: uppercase;
+}
+
+.goBackBtn {
+  display: flex;
+  align-items: center;
+  border-radius: 50px;
+  margin-bottom: 20px;
+  padding: 10px 20px;
+
+  text-transform: uppercase;
+  border: 1px solid black;
+  background-color: transparent;
+  font-size: 17px;
+  font-weight: 600;
+  color: #000;
+}
+
+.goBackBtn svg {
+  margin-right: 40px;
+}
+
+.goForwarrdBtn {
+  display: flex;
+  align-items: center;
+  padding: 10px 15px;
+
+  background-color: #414bdd;
+  border-radius: 50px;
+  color: #fff;
+  text-transform: uppercase;
+  border: none;
+  font-size: 17px;
+  font-weight: 600;
+}
+
+.goForwarrdBtn svg {
+  margin-left: 40px;
+}
+
+@media screen and (min-width: 1069px) {
+  .container {
+    max-width: 768px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .cardContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+  .card a {
+    flex-direction: column;
+    text-align: center;
+    height: 300px;
+    width: 230px;
+  }
+
+  .goBackBtn {
+    margin-right: 50px;
+    margin-bottom: 0;
+  }
+}
+
+@media screen and (min-width: 1441px) {
+  .container {
+    max-width: 1600px;
+  }
+
+  .sectionTitle {
+    margin-bottom: 40px;
+
+    font-size: 40px;
+  }
+
+  .desc {
+    font-size: 20px;
+  }
+
+  .card a {
+    flex-direction: column;
+    height: 330px;
+    width: 470px;
+    text-align: center;
+  }
+
+  .cardTitle {
+    font-size: 25px;
+  }
+
+  .goBackBtn {
+    padding: 20px 40px;
+  }
+
+  .goForwarrdBtn {
+    padding: 20px 30px;
+  }
+}

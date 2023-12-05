@@ -1,0 +1,131 @@
+.title {
+  text-align: center;
+  margin-top: 110px;
+  margin-bottom: 90px;
+  color: #fff;
+}
+
+.byuCarBtn {
+  padding-top: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-top: 2px solid #fff;
+}
+
+.byuCarBtn a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.byuCarBtn h2 {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+  margin-bottom: 10px;
+  color: #fff;
+}
+
+.byuCarBtn p {
+  text-align: left;
+  margin: 0;
+  margin-bottom: 10px;
+  font-size: 15px;
+  font-weight: 400;
+  color: #fff;
+}
+
+.carSvg {
+  display: none;
+}
+
+.arr {
+  display: none;
+}
+
+@media screen and (min-width: 1069px) {
+  .title {
+    margin-top: 57px;
+  }
+
+  .buttonContainer {
+    display: flex;
+    justify-content: center;
+  }
+
+  .byuCarBtn {
+    width: 50%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 0px;
+    padding-right: 0px;
+    background: rgba(47, 48, 58, 0.45);
+  }
+
+  .byuCarBtn:last-child {
+    border-left: 2px solid #fff;
+  }
+
+  .byuCarBtn h2 {
+    /*padding: 0;*/
+    font-weight: 900;
+    font-size: 23px;
+    margin-top: 10px;
+    color: #fff;
+  }
+
+  .byuCarBtn p {
+    margin-left: 60px;
+  }
+
+  .carSvg {
+    display: block;
+  }
+}
+
+@media screen and (min-width: 1441px) {
+  .title {
+    text-align: center;
+    width: 1000px;
+    margin-bottom: 190px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 60px;
+    font-weight: 900;
+    color: #fff;
+  }
+
+  .byuCarBtn {
+    height: 451px;
+    padding-top: 48px;
+  }
+
+  .byuCarBtn h2 {
+    font-weight: 900;
+    font-size: 35px;
+    display: flex;
+    align-items: baseline;
+  }
+
+  .byuCarBtn p {
+    /* width: 50%; */
+    width: 580px;
+    margin-left: 130px;
+    font-size: 21px;
+  }
+
+  .byuCarBtn:last-child .carSvg {
+    margin-bottom: 62px;
+  }
+
+  .byuCarBtn:first-child .carSvg {
+    margin-bottom: 66px;
+  }
+
+  .arr {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 25px;
+  }
+}

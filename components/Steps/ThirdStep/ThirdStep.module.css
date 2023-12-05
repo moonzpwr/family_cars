@@ -1,0 +1,307 @@
+.container {
+  max-width: 375px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px 10px 30px 10px;
+}
+
+.sectionTitle {
+  margin-top: 0;
+  margin-bottom: 20px;
+
+  font-size: 20px;
+  font-weight: 900;
+}
+
+.damageTypeTitle {
+  margin-right: 150px;
+  margin-top: 0;
+  margin-bottom: 10px;
+
+  font-size: 15px;
+}
+
+.damageTypeSelect {
+  margin-bottom: 20px;
+  padding: 5px 10px;
+
+  border: 1px solid #d9d9d9;
+  background-color: #f8f8f8;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.disabled {
+  color: rgba(0, 0, 0, 0.507);
+  pointer-events: none;
+}
+
+.rateTitle {
+  margin-top: 0;
+  margin-bottom: 10px;
+
+  font-size: 15px;
+}
+
+.rateSelect {
+  margin-bottom: 20px;
+  padding: 5px 10px;
+
+  background-color: #f8f8f8;
+  border: 1px solid #d9d9d9;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.imgContainer {
+  margin-bottom: 20px;
+}
+
+.desc {
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+.goBackBtn {
+  display: flex;
+  align-items: center;
+  border-radius: 50px;
+  margin-bottom: 20px;
+  padding: 10px 20px;
+
+  text-transform: uppercase;
+  border: 1px solid black;
+  background-color: transparent;
+  font-size: 17px;
+  font-weight: 600;
+  color: #000;
+  cursor: pointer;
+}
+
+.goBackBtn svg {
+  margin-right: 40px;
+}
+
+.goForwarrdBtn {
+  display: flex;
+  align-items: center;
+  padding: 10px 15px;
+
+  background-color: #414bdd;
+  border-radius: 50px;
+  color: #fff;
+  text-transform: uppercase;
+  border: none;
+  font-size: 17px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.goForwarrdBtn svg {
+  margin-left: 40px;
+}
+
+.warningBlue {
+  display: flex;
+  margin-top: 20px;
+
+  color: #fff;
+  background-color: #ab1fed;
+  font-size: 15px;
+  padding: 10px 5px;
+}
+
+.warningBlue span {
+  width: 230px;
+}
+
+.warningBlue svg {
+  margin-right: 5px;
+}
+
+.warningBlue a {
+  color: #fff;
+  text-decoration: underline;
+  font-size: 15px;
+}
+
+.exampleList {
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+  color: #9b0e04;
+}
+
+.exampleList li:first-child {
+  font-weight: 800;
+}
+
+.exampleList li:not(:last-child) {
+  margin-bottom: 5px;
+}
+
+.warningRed {
+  display: flex;
+  margin-top: 20px;
+  padding: 10px 5px;
+
+  background-color: #d40022;
+  color: #fff;
+  font-size: 15px;
+}
+
+.warningRed span {
+  width: 230px;
+}
+
+.warningRed svg {
+  margin-right: 5px;
+}
+
+.warningRed a {
+  color: #fff;
+  text-decoration: underline;
+  font-size: 15px;
+}
+
+.hidden {
+  pointer-events: none;
+  color: transparent;
+  border: transparent;
+  height: 1px;
+}
+
+@media screen and (min-width: 1069px) {
+  .container {
+    max-width: 768px;
+  }
+
+  .sectionTitle {
+    width: 100%;
+  }
+
+  .damageTypeTitle {
+    margin-bottom: 20px;
+    margin-right: 15px;
+  }
+
+  .damageTypeSelect {
+    margin-right: 150px;
+  }
+
+  .damageTypeSelect,
+  .rateSelect {
+    padding-left: 40px;
+    vertical-align: middle;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    background-repeat: no-repeat;
+    background-position: 1px 2px;
+  }
+
+  .warnMark {
+    background-image: url(../../../images/warnMark.jpg);
+  }
+
+  .questionMark {
+    background-image: url(../../../images/questionMark.jpg);
+  }
+
+  .greenMark {
+    background-image: url(../../../images/greenMark.jpg);
+  }
+
+  .rateTitle {
+    margin-bottom: 20px;
+    margin-right: 15px;
+  }
+
+  .imgContainer {
+    width: 400px;
+    margin-right: 15px;
+    align-self: flex-start;
+  }
+
+  .desc {
+    width: 330px;
+    align-self: flex-start;
+  }
+
+  .goBackBtn {
+    margin-right: 50px;
+    margin-bottom: 0;
+  }
+}
+
+@media screen and (min-width: 1441px) {
+  .container {
+    max-width: 1600px;
+  }
+
+  .sectionTitle {
+    margin-bottom: 40px;
+
+    font-size: 40px;
+  }
+
+  .damageTypeTitle,
+  .rateTitle {
+    margin-bottom: 80px;
+
+    font-size: 21px;
+  }
+
+  .damageTypeSelect,
+  .rateSelect {
+    margin-bottom: 80px;
+
+    font-size: 21px;
+    background-position: 5px 5px;
+  }
+
+  .damageTypeSelect {
+    margin-right: 90px;
+  }
+
+  .imgContainer {
+    width: 520px;
+    margin-right: 60px;
+    margin-bottom: 100px;
+  }
+
+  .desc {
+    width: 800px;
+
+    font-size: 19px;
+    margin-bottom: 80px;
+  }
+
+  .goBackBtn {
+    padding: 20px 40px;
+  }
+
+  .goForwarrdBtn {
+    padding: 20px 30px;
+  }
+
+  .warningRed,
+  .warningBlue {
+    padding: 45px 60px;
+
+    font-size: 16px;
+  }
+
+  .warningRed span,
+  .warningBlue span {
+    width: 550px;
+  }
+
+  .warningRed svg,
+  .warningBlue svg {
+    margin-right: 60px;
+  }
+}

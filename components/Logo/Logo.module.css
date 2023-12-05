@@ -1,0 +1,63 @@
+.logoContainer {
+  margin-left: 100px;
+  z-index: 3;
+}
+
+.logoContainer a {
+  position: fixed;
+  display: flex;
+  flex-direction: row;
+}
+
+.logo {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+
+  color: #fff;
+  font-weight: 900;
+  font-size: 32px;
+  line-height: 0.84;
+  text-align: right;
+}
+
+.logo span {
+  font-size: 50px;
+  line-height: 0.68;
+  text-align: right;
+}
+
+.logoPng {
+  height: 90px;
+  width: 72px;
+  margin: 18px 0 0 10px;
+}
+
+@media screen and (min-width: 1069px) {
+  .logoContainer {
+    margin-left: 0;
+  }
+
+  .logoContainer a {
+    position: static;
+  }
+}
+
+@media screen and (min-width: 1441px) {
+  .logoContainer {
+    margin-left: 144px;
+  }
+
+  .logo {
+    font-size: 50px;
+  }
+
+  .logo span {
+    font-size: 73px;
+  }
+
+  .logoPng {
+    height: 109px;
+    width: 98px;
+  }
+}

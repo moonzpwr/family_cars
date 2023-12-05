@@ -1,0 +1,30 @@
+{
+  "frontEnd": {
+    "light": {
+      "text": "",
+      "photo": ""
+    },
+    "medium": {
+      "text": "",
+      "photo": ""
+    },
+    "hard": {
+      "text": "",
+      "photo": ""
+    }
+  },
+  "rearEnd": {
+    "light": {
+      "text": "",
+      "photo": ""
+    },
+    "medium": {
+      "text": "",
+      "photo": ""
+    },
+    "hard": {
+      "text": "",
+      "photo": ""
+    }
+  }
+}

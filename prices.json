@@ -1,0 +1,2550 @@
+[
+  {
+    "landprice": "447",
+    "from": "huntsville",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "iaai (al)"
+  },
+  {
+    "landprice": "447",
+    "from": "birmingham",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "iaai (al)"
+  },
+  {
+    "landprice": "452",
+    "from": "mobile",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "copart (al)"
+  },
+  {
+    "landprice": "305",
+    "from": "dothan",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "iaai (al)"
+  },
+  {
+    "landprice": "447",
+    "from": "birmingham",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "copart (al)"
+  },
+  {
+    "landprice": "455",
+    "from": "montgomery",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "copart (al)"
+  },
+  {
+    "landprice": "245",
+    "from": "dothan",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "copart (al)"
+  },
+  {
+    "landprice": "448",
+    "from": "tanner",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "copart (al)"
+  },
+  {
+    "landprice": "452",
+    "from": "mobile south",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "copart (al)"
+  },
+  {
+    "landprice": "933",
+    "from": "edmonton",
+    "destinationport": "montreal (qc)",
+    "seaprice": "1400",
+    "auction": "copart (ab)"
+  },
+  {
+    "landprice": "860",
+    "from": "calgary",
+    "destinationport": "montreal (qc)",
+    "seaprice": "1400",
+    "auction": "copart (ab)"
+  },
+  {
+    "landprice": "579",
+    "from": "phoenix",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "iaai(az)"
+  },
+  {
+    "landprice": "579",
+    "from": "phoenix",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "copart (az)"
+  },
+  {
+    "landprice": "566",
+    "from": "tucson",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "copart (az)"
+  },
+  {
+    "landprice": "566",
+    "from": "tucson",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "iaai (az)"
+  },
+  {
+    "landprice": "654",
+    "from": "little rock",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "copart (ar)"
+  },
+  {
+    "landprice": "677",
+    "from": "fayetteville",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "iaai (ar)"
+  },
+  {
+    "landprice": "677",
+    "from": "fayetteville",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "copart (ar)"
+  },
+  {
+    "landprice": "654",
+    "from": "little rock",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "iaai (ar)"
+  },
+  {
+    "landprice": "358",
+    "from": "anaheim",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "iaai (ca)"
+  },
+  {
+    "landprice": "535",
+    "from": "redding",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "copart (ca)"
+  },
+  {
+    "landprice": "530",
+    "from": "antelope",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "copart (ca)"
+  },
+  {
+    "landprice": "441",
+    "from": "bakersfield",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "copart (ca)"
+  },
+  {
+    "landprice": "522",
+    "from": "east bay",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "iaai (ca)"
+  },
+  {
+    "landprice": "430",
+    "from": "ace - carson",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "iaai (ca)"
+  },
+  {
+    "landprice": "436",
+    "from": "san bernardino",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "copart (ca)"
+  },
+  {
+    "landprice": "436",
+    "from": "fontana",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "iaai (ca)"
+  },
+  {
+    "landprice": "536",
+    "from": "fremont",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "iaai (ca)"
+  },
+  {
+    "landprice": "439",
+    "from": "fresno",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "iaai (ca)"
+  },
+  {
+    "landprice": "439",
+    "from": "fresno",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "copart (ca)"
+  },
+  {
+    "landprice": "350",
+    "from": "los angeles",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "iaai (ca)"
+  },
+  {
+    "landprice": "577",
+    "from": "hayward",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "copart (ca)"
+  },
+  {
+    "landprice": "365",
+    "from": "high desert",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "iaai (ca)"
+  },
+  {
+    "landprice": "358",
+    "from": "north hollywood",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "iaai (ca)"
+  },
+  {
+    "landprice": "358",
+    "from": "los angeles",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "copart (ca)"
+  },
+  {
+    "landprice": "450",
+    "from": "martinez",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "copart (ca)"
+  },
+  {
+    "landprice": "380",
+    "from": "ace - perris",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "iaai (ca)"
+  },
+  {
+    "landprice": "380",
+    "from": "ace - perris 2",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "iaai (ca)"
+  },
+  {
+    "landprice": "500",
+    "from": "sacramento",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "iaai (ca)"
+  },
+  {
+    "landprice": "400",
+    "from": "rancho cucamonga",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "copart (ca)"
+  },
+  {
+    "landprice": "500",
+    "from": "sacramento",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "copart (ca)"
+  },
+  {
+    "landprice": "500",
+    "from": "so sacramento",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "copart (ca)"
+  },
+  {
+    "landprice": "433",
+    "from": "san diego",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "iaai (ca)"
+  },
+  {
+    "landprice": "433",
+    "from": "san diego",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "copart (ca)"
+  },
+  {
+    "landprice": "544",
+    "from": "san jose",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "copart (ca)"
+  },
+  {
+    "landprice": "350",
+    "from": "sun valley",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "copart (ca)"
+  },
+  {
+    "landprice": "522",
+    "from": "vallejo",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "copart (ca)"
+  },
+  {
+    "landprice": "330",
+    "from": "van nuys",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "copart (ca)"
+  },
+  {
+    "landprice": "358",
+    "from": "long beach",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "copart (ca)"
+  },
+  {
+    "landprice": "358",
+    "from": "los angeles south",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "iaai (ca)"
+  },
+  {
+    "landprice": "700",
+    "from": "denver",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "copart (co)"
+  },
+  {
+    "landprice": "689",
+    "from": "colorado springs",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "copart (co)"
+  },
+  {
+    "landprice": "700",
+    "from": "denver east",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "iaai (co)"
+  },
+  {
+    "landprice": "700",
+    "from": "western colorado",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "iaai (co)"
+  },
+  {
+    "landprice": "700",
+    "from": "denver central",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "copart (co)"
+  },
+  {
+    "landprice": "700",
+    "from": "denver",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "iaai (co)"
+  },
+  {
+    "landprice": "703",
+    "from": "denver south",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "copart (co)"
+  },
+  {
+    "landprice": "444",
+    "from": "hartford springfield",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (ct)"
+  },
+  {
+    "landprice": "520",
+    "from": "hartford",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (ct)"
+  },
+  {
+    "landprice": "520",
+    "from": "hartford-south",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (ct)"
+  },
+  {
+    "landprice": "520",
+    "from": "hartford",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (ct)"
+  },
+  {
+    "landprice": "594",
+    "from": "new castle",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (de)"
+  },
+  {
+    "landprice": "594",
+    "from": "seaford",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (de)"
+  },
+  {
+    "landprice": "465",
+    "from": "orlando north / copart (fl)",
+    "destinationport": "miami (fl)",
+    "seaprice": "900",
+    "auction": "copart (fl)"
+  },
+  {
+    "landprice": "530",
+    "from": "clearwater / iaai (fl)",
+    "destinationport": "miami (fl)",
+    "seaprice": "900",
+    "auction": "iaai (fl)"
+  },
+  {
+    "landprice": "440",
+    "from": "fort myers (fl)",
+    "destinationport": "miami (fl)",
+    "seaprice": "900",
+    "auction": "iaai (fl)"
+  },
+  {
+    "landprice": "440",
+    "from": "ft. pierce",
+    "destinationport": "miami (fl)",
+    "seaprice": "900",
+    "auction": "copart (fl)"
+  },
+  {
+    "landprice": "440",
+    "from": "fort pierce",
+    "destinationport": "miami (fl)",
+    "seaprice": "900",
+    "auction": "iaai (fl)"
+  },
+  {
+    "landprice": "440",
+    "from": "miami south",
+    "destinationport": "miami (fl)",
+    "seaprice": "900",
+    "auction": "copart (fl)"
+  },
+  {
+    "landprice": "523",
+    "from": "tampa north",
+    "destinationport": "miami (fl)",
+    "seaprice": "900",
+    "auction": "iaai (fl)"
+  },
+  {
+    "landprice": "475",
+    "from": "jacksonville west",
+    "destinationport": "miami (fl)",
+    "seaprice": "900",
+    "auction": "copart (fl)"
+  },
+  {
+    "landprice": "475",
+    "from": "jacksonville east",
+    "destinationport": "miami (fl)",
+    "seaprice": "900",
+    "auction": "copart (fl)"
+  },
+  {
+    "landprice": "475",
+    "from": "jacksonville north",
+    "destinationport": "miami (fl)",
+    "seaprice": "900",
+    "auction": "copart (fl)"
+  },
+  {
+    "landprice": "475",
+    "from": "jacksonville",
+    "destinationport": "miami (fl)",
+    "seaprice": "900",
+    "auction": "iaai (fl)"
+  },
+  {
+    "landprice": "400",
+    "from": "miami central",
+    "destinationport": "miami (fl)",
+    "seaprice": "900",
+    "auction": "copart (fl)"
+  },
+  {
+    "landprice": "531",
+    "from": "tallahassee",
+    "destinationport": "miami (fl)",
+    "seaprice": "900",
+    "auction": "copart (fl)"
+  },
+  {
+    "landprice": "452",
+    "from": "pensacola",
+    "destinationport": "miami (fl)",
+    "seaprice": "900",
+    "auction": "iaai (fl)"
+  },
+  {
+    "landprice": "440",
+    "from": "fort myers",
+    "destinationport": "miami (fl)",
+    "seaprice": "900",
+    "auction": "iaai (fl)"
+  },
+  {
+    "landprice": "470",
+    "from": "ocala",
+    "destinationport": "miami (fl)",
+    "seaprice": "900",
+    "auction": "copart (fl)"
+  },
+  {
+    "landprice": "465",
+    "from": "miami",
+    "destinationport": "miami (fl)",
+    "seaprice": "900",
+    "auction": "iaai (fl)"
+  },
+  {
+    "landprice": "465",
+    "from": "miami north",
+    "destinationport": "miami (fl)",
+    "seaprice": "900",
+    "auction": "copart (fl)"
+  },
+  {
+    "landprice": "465",
+    "from": "orlando south",
+    "destinationport": "miami (fl)",
+    "seaprice": "900",
+    "auction": "copart (fl)"
+  },
+  {
+    "landprice": "465",
+    "from": "orlando",
+    "destinationport": "miami (fl)",
+    "seaprice": "900",
+    "auction": "iaai (fl)"
+  },
+  {
+    "landprice": "523",
+    "from": "tampa",
+    "destinationport": "miami (fl)",
+    "seaprice": "900",
+    "auction": "iaai (fl)"
+  },
+  {
+    "landprice": "426",
+    "from": "punta gorda",
+    "destinationport": "miami (fl)",
+    "seaprice": "900",
+    "auction": "copart (fl)"
+  },
+  {
+    "landprice": "523",
+    "from": "tampa south",
+    "destinationport": "miami (fl)",
+    "seaprice": "900",
+    "auction": "copart (fl)"
+  },
+  {
+    "landprice": "475",
+    "from": "orlando-north",
+    "destinationport": "miami (fl)",
+    "seaprice": "900",
+    "auction": "iaai (fl)"
+  },
+  {
+    "landprice": "465",
+    "from": "miami-north",
+    "destinationport": "miami (fl)",
+    "seaprice": "900",
+    "auction": "iaai (fl)"
+  },
+  {
+    "landprice": "472",
+    "from": "west palm beach",
+    "destinationport": "miami (fl)",
+    "seaprice": "900",
+    "auction": "copart (fl)"
+  },
+  {
+    "landprice": "481",
+    "from": "atlanta north",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "iaai (ga)"
+  },
+  {
+    "landprice": "471",
+    "from": "atlanta west",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "copart (ga)"
+  },
+  {
+    "landprice": "385",
+    "from": "macon",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "copart (ga)"
+  },
+  {
+    "landprice": "488",
+    "from": "cartersville",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "copart (ga)"
+  },
+  {
+    "landprice": "471",
+    "from": "atlanta south",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "copart (ga)"
+  },
+  {
+    "landprice": "481",
+    "from": "atlanta north",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "copart (ga)"
+  },
+  {
+    "landprice": "471",
+    "from": "atlanta south",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "iaai (ga)"
+  },
+  {
+    "landprice": "481",
+    "from": "atlanta east",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "copart (ga)"
+  },
+  {
+    "landprice": "481",
+    "from": "atlanta",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "iaai (ga)"
+  },
+  {
+    "landprice": "488",
+    "from": "macon",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "iaai (ga)"
+  },
+  {
+    "landprice": "386",
+    "from": "savannah",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "iaai (ga)"
+  },
+  {
+    "landprice": "386",
+    "from": "savannah",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "copart (ga)"
+  },
+  {
+    "landprice": "446",
+    "from": "tifton",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "iaai (ga)"
+  },
+  {
+    "landprice": "446",
+    "from": "tifton",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "copart (ga)"
+  },
+  {
+    "landprice": "481",
+    "from": "atlanta east",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "iaai (ga)"
+  },
+  {
+    "landprice": "2300",
+    "from": "honolulu",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "copart (hi)"
+  },
+  {
+    "landprice": "2300",
+    "from": "honolulu",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "iaai (hi)"
+  },
+  {
+    "landprice": "523",
+    "from": "boise",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "iaai (id)"
+  },
+  {
+    "landprice": "602",
+    "from": "boise",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "copart (id)"
+  },
+  {
+    "landprice": "620",
+    "from": "southern illinois",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (il)"
+  },
+  {
+    "landprice": "625",
+    "from": "chicago-west",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (il)"
+  },
+  {
+    "landprice": "600",
+    "from": "chicago south",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (il)"
+  },
+  {
+    "landprice": "625",
+    "from": "chicago-north",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (il)"
+  },
+  {
+    "landprice": "625",
+    "from": "chicago north",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (il)"
+  },
+  {
+    "landprice": "681",
+    "from": "st. louis",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (il)"
+  },
+  {
+    "landprice": "681",
+    "from": "lincoln",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (il)"
+  },
+  {
+    "landprice": "600",
+    "from": "chicago-south",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (il)"
+  },
+  {
+    "landprice": "720",
+    "from": "peoria",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (il)"
+  },
+  {
+    "landprice": "623",
+    "from": "specialty division",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (il)"
+  },
+  {
+    "landprice": "630",
+    "from": "wheeling",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (il)"
+  },
+  {
+    "landprice": "575",
+    "from": "cicero",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (in)"
+  },
+  {
+    "landprice": "555",
+    "from": "fort wayne",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (in)"
+  },
+  {
+    "landprice": "620",
+    "from": "hammond",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (in)"
+  },
+  {
+    "landprice": "670",
+    "from": "hartford city",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (in)"
+  },
+  {
+    "landprice": "600",
+    "from": "indianapolis",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (in)"
+  },
+  {
+    "landprice": "600",
+    "from": "indianapolis",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (in)"
+  },
+  {
+    "landprice": "620",
+    "from": "south bend",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (in)"
+  },
+  {
+    "landprice": "680",
+    "from": "davenport",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (ia)"
+  },
+  {
+    "landprice": "700",
+    "from": "des moines",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (ia)"
+  },
+  {
+    "landprice": "700",
+    "from": "des moines",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (ia)"
+  },
+  {
+    "landprice": "680",
+    "from": "davenport",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (ia)"
+  },
+  {
+    "landprice": "680",
+    "from": "kansas city",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (ks)"
+  },
+  {
+    "landprice": "680",
+    "from": "kansas city",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (ks)"
+  },
+  {
+    "landprice": "751",
+    "from": "wichita",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (ks)"
+  },
+  {
+    "landprice": "751",
+    "from": "wichita",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (ks)"
+  },
+  {
+    "landprice": "650",
+    "from": "ashland",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (ky)"
+  },
+  {
+    "landprice": "621",
+    "from": "bowling green",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (ky)"
+  },
+  {
+    "landprice": "586",
+    "from": "louisville north",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (ky)"
+  },
+  {
+    "landprice": "571",
+    "from": "lexington west",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (ky)"
+  },
+  {
+    "landprice": "571",
+    "from": "lexington east",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (ky)"
+  },
+  {
+    "landprice": "586",
+    "from": "louisville",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (ky)"
+  },
+  {
+    "landprice": "586",
+    "from": "paducah",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (ky)"
+  },
+  {
+    "landprice": "586",
+    "from": "louisville",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (ky)"
+  },
+  {
+    "landprice": "621",
+    "from": "walton",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (ky)"
+  },
+  {
+    "landprice": "501",
+    "from": "baton rouge",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "iaai (la)"
+  },
+  {
+    "landprice": "501",
+    "from": "baton rouge",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "copart (la)"
+  },
+  {
+    "landprice": "594",
+    "from": "shreveport",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "iaai (la)"
+  },
+  {
+    "landprice": "521",
+    "from": "lafayette",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "iaai (la)"
+  },
+  {
+    "landprice": "521",
+    "from": "new orleans east",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "iaai (la)"
+  },
+  {
+    "landprice": "521",
+    "from": "new orleans",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "copart (la)"
+  },
+  {
+    "landprice": "594",
+    "from": "shreveport",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "copart (la)"
+  },
+  {
+    "landprice": "530",
+    "from": "portland - gorham",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (me)"
+  },
+  {
+    "landprice": "588",
+    "from": "lyman",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (me)"
+  },
+  {
+    "landprice": "520",
+    "from": "baltimore",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (md)"
+  },
+  {
+    "landprice": "520",
+    "from": "baltimore east",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (md)"
+  },
+  {
+    "landprice": "520",
+    "from": "metro dc",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (md)"
+  },
+  {
+    "landprice": "520",
+    "from": "dundalk",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (md)"
+  },
+  {
+    "landprice": "520",
+    "from": "baltimore",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (md)"
+  },
+  {
+    "landprice": "520",
+    "from": "laurel",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (md)"
+  },
+  {
+    "landprice": "520",
+    "from": "washington dc",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (md)"
+  },
+  {
+    "landprice": "570",
+    "from": "taunton",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (ma)"
+  },
+  {
+    "landprice": "570",
+    "from": "south boston",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (ma)"
+  },
+  {
+    "landprice": "588",
+    "from": "north boston",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (ma)"
+  },
+  {
+    "landprice": "0",
+    "from": "international offsite auction",
+    "destinationport": "-",
+    "seaprice": "-",
+    "auction": "copart (ma)"
+  },
+  {
+    "landprice": "520",
+    "from": "boston - shirley",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (ma)"
+  },
+  {
+    "landprice": "530",
+    "from": "templeton",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (ma)"
+  },
+  {
+    "landprice": "530",
+    "from": "west warren",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (ma)"
+  },
+  {
+    "landprice": "600",
+    "from": "detroit",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (mi)"
+  },
+  {
+    "landprice": "650",
+    "from": "grand rapids",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (mi)"
+  },
+  {
+    "landprice": "590",
+    "from": "flint",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (mi)"
+  },
+  {
+    "landprice": "590",
+    "from": "flint",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (mi)"
+  },
+  {
+    "landprice": "795",
+    "from": "kincheloe",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (mi)"
+  },
+  {
+    "landprice": "590",
+    "from": "lansing",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (mi)"
+  },
+  {
+    "landprice": "590",
+    "from": "ionia",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (mi)"
+  },
+  {
+    "landprice": "590",
+    "from": "detroit",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (mi)"
+  },
+  {
+    "landprice": "750",
+    "from": "st. cloud",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (mn)"
+  },
+  {
+    "landprice": "720",
+    "from": "minneapolis",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (mn)"
+  },
+  {
+    "landprice": "720",
+    "from": "minneapolis north",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (mn)"
+  },
+  {
+    "landprice": "720",
+    "from": "minneapolis/st. paul / iaai (mn)",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": ""
+  },
+  {
+    "landprice": "521",
+    "from": "jackson",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "iaai (ms)"
+  },
+  {
+    "landprice": "521",
+    "from": "jackson",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "copart (ms)"
+  },
+  {
+    "landprice": "550",
+    "from": "grenada",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "iaai (ms)"
+  },
+  {
+    "landprice": "521",
+    "from": "gulf coast",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "iaai (ms)"
+  },
+  {
+    "landprice": "631",
+    "from": "st. louis",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "copart (mo)"
+  },
+  {
+    "landprice": "681",
+    "from": "columbia",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "copart (mo)"
+  },
+  {
+    "landprice": "746",
+    "from": "kansas city east",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "iaai (mo)"
+  },
+  {
+    "landprice": "681",
+    "from": "springfield",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "copart (mo)"
+  },
+  {
+    "landprice": "671",
+    "from": "sikeston",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "copart (mo)"
+  },
+  {
+    "landprice": "681",
+    "from": "springfield",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "iaai (mo)"
+  },
+  {
+    "landprice": "713",
+    "from": "billings",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (mt)"
+  },
+  {
+    "landprice": "713",
+    "from": "billings",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (mt)"
+  },
+  {
+    "landprice": "744",
+    "from": "helena",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (mt)"
+  },
+  {
+    "landprice": "1100",
+    "from": "missoula",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "iaai (mt)"
+  },
+  {
+    "landprice": "595",
+    "from": "lincoln",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (ne)"
+  },
+  {
+    "landprice": "680",
+    "from": "omaha",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (ne)"
+  },
+  {
+    "landprice": "570",
+    "from": "las vegas",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "iaai (nv)"
+  },
+  {
+    "landprice": "570",
+    "from": "las vegas",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "copart (nv)"
+  },
+  {
+    "landprice": "535",
+    "from": "reno",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "iaai (nv)"
+  },
+  {
+    "landprice": "538",
+    "from": "reno",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "copart (nv)"
+  },
+  {
+    "landprice": "600",
+    "from": "moncton",
+    "destinationport": "montreal (qc)",
+    "seaprice": "1400",
+    "auction": "copart (nb)"
+  },
+  {
+    "landprice": "550",
+    "from": "candia",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (nh)"
+  },
+  {
+    "landprice": "550",
+    "from": "manchester",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (nh)"
+  },
+  {
+    "landprice": "550",
+    "from": "avenel new jersey",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (nj)"
+  },
+  {
+    "landprice": "550",
+    "from": "englishtown",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (nj)"
+  },
+  {
+    "landprice": "520",
+    "from": "glassboro east",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (nj)"
+  },
+  {
+    "landprice": "520",
+    "from": "glassboro west",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (nj)"
+  },
+  {
+    "landprice": "400",
+    "from": "somerville",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (nj)"
+  },
+  {
+    "landprice": "400",
+    "from": "central new jersey",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (nj)"
+  },
+  {
+    "landprice": "400",
+    "from": "southern new jersey",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (nj)"
+  },
+  {
+    "landprice": "400",
+    "from": "trenton",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (nj)"
+  },
+  {
+    "landprice": "551",
+    "from": "albuquerque",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "copart (nm)"
+  },
+  {
+    "landprice": "551",
+    "from": "albuquerque",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "iaai (nm)"
+  },
+  {
+    "landprice": "530",
+    "from": "albany",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (ny)"
+  },
+  {
+    "landprice": "550",
+    "from": "buffalo",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (ny)"
+  },
+  {
+    "landprice": "520",
+    "from": "rochester",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (ny)"
+  },
+  {
+    "landprice": "470",
+    "from": "long island",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (ny)"
+  },
+  {
+    "landprice": "550",
+    "from": "buffalo",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (ny)"
+  },
+  {
+    "landprice": "560",
+    "from": "syracuse",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (ny)"
+  },
+  {
+    "landprice": "560",
+    "from": "syracuse",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (ny)"
+  },
+  {
+    "landprice": "520",
+    "from": "rochester",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (ny)"
+  },
+  {
+    "landprice": "470",
+    "from": "newburgh",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (ny)"
+  },
+  {
+    "landprice": "470",
+    "from": "long island",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (ny)"
+  },
+  {
+    "landprice": "470",
+    "from": "newburgh",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (ny)"
+  },
+  {
+    "landprice": "530",
+    "from": "albany",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (ny)"
+  },
+  {
+    "landprice": "551",
+    "from": "wilmington",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "iaai (nc)"
+  },
+  {
+    "landprice": "551",
+    "from": "charlotte",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "iaai (nc)"
+  },
+  {
+    "landprice": "551",
+    "from": "china grove",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "copart (nc)"
+  },
+  {
+    "landprice": "581",
+    "from": "raleigh",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "iaai (nc)"
+  },
+  {
+    "landprice": "551",
+    "from": "concord",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "iaai (nc)"
+  },
+  {
+    "landprice": "551",
+    "from": "concord",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "copart (nc)"
+  },
+  {
+    "landprice": "581",
+    "from": "raleigh",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "copart (nc)"
+  },
+  {
+    "landprice": "551",
+    "from": "asheville",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "iaai (nc)"
+  },
+  {
+    "landprice": "551",
+    "from": "greensboro",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "iaai (nc)"
+  },
+  {
+    "landprice": "551",
+    "from": "raleigh north",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "copart (nc)"
+  },
+  {
+    "landprice": "556",
+    "from": "lumberton",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "copart (nc)"
+  },
+  {
+    "landprice": "551",
+    "from": "mebane",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "copart (nc)"
+  },
+  {
+    "landprice": "551",
+    "from": "mocksville",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "copart (nc)"
+  },
+  {
+    "landprice": "0",
+    "from": "fargo",
+    "destinationport": "-",
+    "seaprice": "-",
+    "auction": "iaai (nd)"
+  },
+  {
+    "landprice": "0",
+    "from": "halifax",
+    "destinationport": "-",
+    "seaprice": "-",
+    "auction": "copart (ns)"
+  },
+  {
+    "landprice": "570",
+    "from": "cleveland west",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (oh)"
+  },
+  {
+    "landprice": "580",
+    "from": "columbus",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (oh)"
+  },
+  {
+    "landprice": "620",
+    "from": "dayton",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (oh)"
+  },
+  {
+    "landprice": "580",
+    "from": "columbus",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (oh)"
+  },
+  {
+    "landprice": "570",
+    "from": "cleveland",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (oh)"
+  },
+  {
+    "landprice": "620",
+    "from": "dayton",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (oh)"
+  },
+  {
+    "landprice": "600",
+    "from": "akron-canton",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (oh)"
+  },
+  {
+    "landprice": "570",
+    "from": "cleveland east",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (oh)"
+  },
+  {
+    "landprice": "600",
+    "from": "cincinnati",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (oh)"
+  },
+  {
+    "landprice": "681",
+    "from": "oklahoma city",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "copart (ok)"
+  },
+  {
+    "landprice": "681",
+    "from": "oklahoma city",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "iaai (ok)"
+  },
+  {
+    "landprice": "598",
+    "from": "tulsa",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "iaai (ok)"
+  },
+  {
+    "landprice": "598",
+    "from": "tulsa",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "copart (ok)"
+  },
+  {
+    "landprice": "516",
+    "from": "toronto",
+    "destinationport": "toronto (on)",
+    "seaprice": "1200",
+    "auction": "copart (on)"
+  },
+  {
+    "landprice": "290",
+    "from": "london",
+    "destinationport": "toronto (on)",
+    "seaprice": "1200",
+    "auction": "copart (on)"
+  },
+  {
+    "landprice": "300",
+    "from": "toronto",
+    "destinationport": "toronto (on)",
+    "seaprice": "1200",
+    "auction": "iaai (on)"
+  },
+  {
+    "landprice": "620",
+    "from": "eugene",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "iaai (or)"
+  },
+  {
+    "landprice": "620",
+    "from": "eugene",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "copart (or)"
+  },
+  {
+    "landprice": "670",
+    "from": "portland",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "iaai (or)"
+  },
+  {
+    "landprice": "670",
+    "from": "portland north",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "copart (or)"
+  },
+  {
+    "landprice": "640",
+    "from": "portland south",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "copart (or)"
+  },
+  {
+    "landprice": "570",
+    "from": "pittsburgh",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (pa)"
+  },
+  {
+    "landprice": "450",
+    "from": "bridgeport",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (pa)"
+  },
+  {
+    "landprice": "470",
+    "from": "philadelphia east",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (pa)"
+  },
+  {
+    "landprice": "580",
+    "from": "chambersburg",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (pa)"
+  },
+  {
+    "landprice": "470",
+    "from": "philadelphia",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (pa)"
+  },
+  {
+    "landprice": "500",
+    "from": "scranton",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (pa)"
+  },
+  {
+    "landprice": "380",
+    "from": "altoona",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (pa)"
+  },
+  {
+    "landprice": "380",
+    "from": "altoona",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (pa)"
+  },
+  {
+    "landprice": "520",
+    "from": "pittsburgh north",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (pa)"
+  },
+  {
+    "landprice": "570",
+    "from": "erie",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (pa)"
+  },
+  {
+    "landprice": "570",
+    "from": "harrisburg",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (pa)"
+  },
+  {
+    "landprice": "470",
+    "from": "philadelphia",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (pa)"
+  },
+  {
+    "landprice": "500",
+    "from": "scranton",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (pa)"
+  },
+  {
+    "landprice": "570",
+    "from": "pittsburgh south",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (pa)"
+  },
+  {
+    "landprice": "570",
+    "from": "pittsburgh west",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (pa)"
+  },
+  {
+    "landprice": "580",
+    "from": "york haven",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (pa)"
+  },
+  {
+    "landprice": "370",
+    "from": "york springs",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (pa)"
+  },
+  {
+    "landprice": "1402",
+    "from": "montreal",
+    "destinationport": "toronto (on)",
+    "seaprice": "1200",
+    "auction": "iaai (qc)"
+  },
+  {
+    "landprice": "1472",
+    "from": "montreal",
+    "destinationport": "toronto (on)",
+    "seaprice": "1200",
+    "auction": "copart (qc)"
+  },
+  {
+    "landprice": "551",
+    "from": "providence",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (ri)"
+  },
+  {
+    "landprice": "531",
+    "from": "exeter",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (ri)"
+  },
+  {
+    "landprice": "429",
+    "from": "columbia",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "iaai (sc)"
+  },
+  {
+    "landprice": "429",
+    "from": "columbia",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "copart (sc)"
+  },
+  {
+    "landprice": "479",
+    "from": "north charleston",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "copart (sc)"
+  },
+  {
+    "landprice": "429",
+    "from": "lexington",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "iaai (sc)"
+  },
+  {
+    "landprice": "429",
+    "from": "charleston",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "iaai (sc)"
+  },
+  {
+    "landprice": "531",
+    "from": "greenville",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "iaai (sc)"
+  },
+  {
+    "landprice": "531",
+    "from": "spartanburg",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "copart (sc)"
+  },
+  {
+    "landprice": "970",
+    "from": "sioux falls",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (sd)"
+  },
+  {
+    "landprice": "501",
+    "from": "chattanooga",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "iaai (tn)"
+  },
+  {
+    "landprice": "501",
+    "from": "knoxville",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "iaai (tn)"
+  },
+  {
+    "landprice": "521",
+    "from": "nashville",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "copart (tn)"
+  },
+  {
+    "landprice": "501",
+    "from": "knoxville",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "copart (tn)"
+  },
+  {
+    "landprice": "571",
+    "from": "memphis",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "copart (tn)"
+  },
+  {
+    "landprice": "571",
+    "from": "memphis",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "iaai (tn)"
+  },
+  {
+    "landprice": "521",
+    "from": "nashville",
+    "destinationport": "savannah (ga)",
+    "seaprice": "900",
+    "auction": "iaai (tn)"
+  },
+  {
+    "landprice": "472",
+    "from": "abilene",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "copart (tx)"
+  },
+  {
+    "landprice": "450",
+    "from": "amarillo",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "iaai (tx)"
+  },
+  {
+    "landprice": "450",
+    "from": "amarillo",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "copart (tx)"
+  },
+  {
+    "landprice": "450",
+    "from": "andrews",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "copart (tx)"
+  },
+  {
+    "landprice": "452",
+    "from": "el paso",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "copart (tx)"
+  },
+  {
+    "landprice": "441",
+    "from": "corpus christi",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "copart (tx)"
+  },
+  {
+    "landprice": "441",
+    "from": "corpus christi",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "iaai (tx)"
+  },
+  {
+    "landprice": "501",
+    "from": "austin",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "iaai (tx)"
+  },
+  {
+    "landprice": "502",
+    "from": "crashedtoys dallas",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "copart (tx)"
+  },
+  {
+    "landprice": "550",
+    "from": "mcallen",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "iaai (tx)"
+  },
+  {
+    "landprice": "452",
+    "from": "el paso",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "iaai (tx)"
+  },
+  {
+    "landprice": "502",
+    "from": "dallas",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "iaai (tx)"
+  },
+  {
+    "landprice": "502",
+    "from": "ft worth",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "iaai (tx)"
+  },
+  {
+    "landprice": "502",
+    "from": "dallas",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "copart (tx)"
+  },
+  {
+    "landprice": "551",
+    "from": "ft. worth",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "copart (tx)"
+  },
+  {
+    "landprice": "472",
+    "from": "abilene",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "iaai (tx)"
+  },
+  {
+    "landprice": "479",
+    "from": "houston",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "copart (tx)"
+  },
+  {
+    "landprice": "479",
+    "from": "houston east",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "copart (tx)"
+  },
+  {
+    "landprice": "479",
+    "from": "houston-north",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "iaai (tx)"
+  },
+  {
+    "landprice": "479",
+    "from": "houston",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "iaai (tx)"
+  },
+  {
+    "landprice": "551",
+    "from": "fort worth north",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "iaai (tx)"
+  },
+  {
+    "landprice": "450",
+    "from": "longview",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "copart (tx)"
+  },
+  {
+    "landprice": "450",
+    "from": "longview",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "iaai (tx)"
+  },
+  {
+    "landprice": "450",
+    "from": "lubbock",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "iaai (tx)"
+  },
+  {
+    "landprice": "470",
+    "from": "lufkin",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "copart (tx)"
+  },
+  {
+    "landprice": "550",
+    "from": "mcallen",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "copart (tx)"
+  },
+  {
+    "landprice": "501",
+    "from": "austin",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "copart (tx)"
+  },
+  {
+    "landprice": "551",
+    "from": "permian basin",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "iaai (tx)"
+  },
+  {
+    "landprice": "479",
+    "from": "houston south",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "iaai (tx)"
+  },
+  {
+    "landprice": "451",
+    "from": "san antonio-south",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "iaai (tx)"
+  },
+  {
+    "landprice": "451",
+    "from": "san antonio",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "copart (tx)"
+  },
+  {
+    "landprice": "531",
+    "from": "waco",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "copart (tx)"
+  },
+  {
+    "landprice": "502",
+    "from": "dallas",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "iaai (tx)"
+  },
+  {
+    "landprice": "502",
+    "from": "dallas south",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "copart (tx)"
+  },
+  {
+    "landprice": "600",
+    "from": "ogden",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "copart (ut)"
+  },
+  {
+    "landprice": "670",
+    "from": "salt lake city",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "copart (ut)"
+  },
+  {
+    "landprice": "670",
+    "from": "salt lake city",
+    "destinationport": "los angeles (ca)",
+    "seaprice": "1100",
+    "auction": "iaai (ut)"
+  },
+  {
+    "landprice": "580",
+    "from": "burlington",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (vt)"
+  },
+  {
+    "landprice": "570",
+    "from": "richmond",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (va)"
+  },
+  {
+    "landprice": "570",
+    "from": "richmond east",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (va)"
+  },
+  {
+    "landprice": "594",
+    "from": "danville",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (va)"
+  },
+  {
+    "landprice": "550",
+    "from": "culpeper",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (va)"
+  },
+  {
+    "landprice": "580",
+    "from": "fredericksburg",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (va)"
+  },
+  {
+    "landprice": "580",
+    "from": "fredericksburg-south",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (va)"
+  },
+  {
+    "landprice": "580",
+    "from": "northern virginia",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (va)"
+  },
+  {
+    "landprice": "550",
+    "from": "hampton",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (va)"
+  },
+  {
+    "landprice": "520",
+    "from": "roanoke",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (va)"
+  },
+  {
+    "landprice": "530",
+    "from": "pulaski",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (va)"
+  },
+  {
+    "landprice": "570",
+    "from": "richmond",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (va)"
+  },
+  {
+    "landprice": "550",
+    "from": "suffolk",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (va)"
+  },
+  {
+    "landprice": "570",
+    "from": "tidewater",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (va)"
+  },
+  {
+    "landprice": "1100",
+    "from": "spokane",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "copart (wa)"
+  },
+  {
+    "landprice": "1200",
+    "from": "north seattle",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "copart (wa)"
+  },
+  {
+    "landprice": "1200",
+    "from": "graham",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "copart (wa)"
+  },
+  {
+    "landprice": "1200",
+    "from": "pasco",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "copart (wa)"
+  },
+  {
+    "landprice": "1200",
+    "from": "seattle",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "iaai (wa)"
+  },
+  {
+    "landprice": "1100",
+    "from": "spokane",
+    "destinationport": "houston (tx)",
+    "seaprice": "950",
+    "auction": "iaai (wa)"
+  },
+  {
+    "landprice": "580",
+    "from": "buckhannon",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (wv)"
+  },
+  {
+    "landprice": "580",
+    "from": "charleston",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (wv)"
+  },
+  {
+    "landprice": "580",
+    "from": "shady spring",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (wv)"
+  },
+  {
+    "landprice": "790",
+    "from": "appleton",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (wi)"
+  },
+  {
+    "landprice": "790",
+    "from": "appleton",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (wi)"
+  },
+  {
+    "landprice": "630",
+    "from": "milwaukee",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (wi)"
+  },
+  {
+    "landprice": "670",
+    "from": "madison",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (wi)"
+  },
+  {
+    "landprice": "680",
+    "from": "milwaukee north",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (wi)"
+  },
+  {
+    "landprice": "680",
+    "from": "portage",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (wi)"
+  },
+  {
+    "landprice": "630",
+    "from": "milwaukee",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (wi)"
+  },
+  {
+    "landprice": "950",
+    "from": "casper",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "iaai (wy)"
+  },
+  {
+    "landprice": "950",
+    "from": "casper",
+    "destinationport": "newark (nj)",
+    "seaprice": "900",
+    "auction": "copart (wy)"
+  }
+]

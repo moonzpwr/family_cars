@@ -1,0 +1,35 @@
+.menuList {
+  display: none;
+}
+@media screen and (min-width: 1069px) {
+  .menuList {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+    background-color: #414ce6;
+    font-size: 15px;
+    font-family: "FiraSans", sans-serif;
+    font-weight: 600;
+  }
+
+  .menuList a {
+    color: #fff;
+  }
+}
+
+@media screen and (min-width: 1441px) {
+  .menuList {
+    width: 1300px;
+    padding-top: 42px;
+    padding-bottom: 36px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 24px;
+    font-family: "FiraSans", sans-serif;
+    font-weight: 600;
+  }
+}

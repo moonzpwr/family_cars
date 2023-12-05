@@ -1,0 +1,206 @@
+{
+  "offerAmount": 73800,
+  "id": 19683690,
+  "status": 3,
+  "source": 1,
+  "vin": "SCFSMGAW3LGN03446",
+  "lotId": 42436798,
+  "uri": "https://www.iaai.com/vehicledetails/42436798/0",
+  "auctionId": 39772450,
+  "actualCost": 124783,
+  "repairCost": 0,
+  "buyNowPrice": 73800,
+  "buyNowCloseDate": "2021-12-16T02:00:00+00:00",
+  "buyNowAllowed": true,
+  "currentHighBid": 10000,
+  "auctionDate": "2021-12-16T17:30:00+00:00",
+  "createdAt": "2021-12-14T14:00:39+00:00",
+  "updatedAt": "2021-12-15T10:16:35+00:00",
+  "currency": "USD",
+  "options": {
+    "1": {
+      "value": "2020"
+    },
+    "2": {
+      "alias": "Gasoline",
+      "value": "Gasoline",
+      "optionId": 32070
+    },
+    "3": {
+      "value": "4.0L QUAD OVERHEAD CAM TWIN"
+    },
+    "4": {
+      "alias": "Automatic Transmission",
+      "value": "Automatic",
+      "optionId": 32078
+    },
+    "5": {
+      "alias": "Coupe",
+      "value": "Coupe 2 Door",
+      "optionId": 32124
+    },
+    "7": {
+      "value": "8"
+    },
+    "8": {
+      "alias": "Collision",
+      "value": "Collision",
+      "optionId": 32080
+    },
+    "9": {
+      "alias": "Left Side",
+      "value": "Left Side",
+      "optionId": 32105
+    },
+    "11": {
+      "value": "Green"
+    },
+    "12": {
+      "value": "Unknown"
+    },
+    "13": {
+      "alias": "Rear Wheel Drive",
+      "value": "Rear Wheel Drive",
+      "optionId": 32169
+    },
+    "14": {
+      "value": [
+        "Console Display"
+      ]
+    },
+    "18": {
+      "alias": "Present",
+      "value": "Present",
+      "optionId": 32074
+    },
+    "19": {
+      "alias": "Intact",
+      "value": "Intact",
+      "optionId": 32009
+    },
+    "20": {
+      "alias": "Intact",
+      "value": "Intact",
+      "optionId": 32009
+    },
+    "21": {
+      "alias": "Unknown",
+      "value": "Unknown",
+      "optionId": 32072
+    },
+    "22": {
+      "alias": "Unknown",
+      "value": "Unknown",
+      "optionId": 32072
+    },
+    "23": {
+      "alias": "Unknown",
+      "value": "Unknown",
+      "optionId": 32072
+    },
+    "24": {
+      "note": "Not Actual",
+      "value": "13682"
+    },
+    "28": {
+      "alias": "Present",
+      "value": "Present",
+      "optionId": 32074
+    },
+    "30": {
+      "value": "RS"
+    },
+    "31": {
+      "value": "31776844"
+    },
+    "33": {
+      "value": "4.0"
+    },
+    "34": {
+      "alias": "ASTON MARTIN",
+      "value": "Aston Martin",
+      "optionId": 33117
+    },
+    "35": {
+      "alias": "VANTAGE",
+      "value": "Vantage",
+      "optionId": 33119
+    },
+    "36": {
+      "alias": "AUTOMOBILE",
+      "value": "Automobile",
+      "optionId": 31998
+    },
+    "37": {
+      "value": "134"
+    },
+    "40": {
+      "value": [
+        "Dealer",
+        "Dismantler",
+        "Exporter",
+        "Other Licensed Business",
+        "Rebuilder",
+        "Scrapper"
+      ]
+    },
+    "41": {
+      "value": "SALVAGE CERTIFICATE (California)"
+    },
+    "42": {
+      "value": "USA"
+    },
+    "43": {
+      "note": "USA",
+      "alias": "California",
+      "value": "California",
+      "optionId": 32649
+    },
+    "44": {
+      "note": "USA",
+      "alias": "1-134",
+      "value": "Gardena",
+      "optionId": 33004
+    },
+    "45": {
+      "value": "90248"
+    },
+    "49": {
+      "note": "Los Angeles",
+      "value": "Los Angeles (CA)"
+    },
+    "51": {
+      "alias": "Run & Drive",
+      "value": "Run & Drive",
+      "optionId": 32160
+    },
+    "53": {
+      "value": 32241869
+    },
+    "54": {
+      "value": "mi"
+    },
+    "58": {
+      "value": 73800
+    }
+  },
+  "images": [
+    "https://anvis.iaai.com/resizer?imageKeys=32241869~SID~B134~S1~I1~RW2592~H1944~TH0&width=845&height=633",
+    "https://anvis.iaai.com/resizer?imageKeys=32241869~SID~B134~S1~I2~RW2592~H1944~TH0&width=845&height=633",
+    "https://anvis.iaai.com/resizer?imageKeys=32241869~SID~B134~S1~I3~RW2592~H1944~TH0&width=845&height=633",
+    "https://anvis.iaai.com/resizer?imageKeys=32241869~SID~B134~S1~I4~RW2592~H1944~TH0&width=845&height=633",
+    "https://anvis.iaai.com/resizer?imageKeys=32241869~SID~B134~S0~I5~RW2592~H1944~TH0&width=845&height=633",
+    "https://anvis.iaai.com/resizer?imageKeys=32241869~SID~B134~S1~I6~RW2592~H1944~TH0&width=845&height=633",
+    "https://anvis.iaai.com/resizer?imageKeys=32241869~SID~B134~S1~I7~RW2592~H1944~TH0&width=845&height=633",
+    "https://anvis.iaai.com/resizer?imageKeys=32241869~SID~B134~S0~I8~RW2592~H1944~TH0&width=845&height=633",
+    "https://anvis.iaai.com/resizer?imageKeys=32241869~SID~B134~S0~I9~RW2592~H1944~TH0&width=845&height=633",
+    "https://anvis.iaai.com/resizer?imageKeys=32241869~SID~B134~S1~I10~RW2592~H1944~TH0&width=845&height=633",
+    "https://anvis.iaai.com/resizer?imageKeys=32241869~SID~B134~S0~I11~RW2592~H1944~TH0&width=845&height=633"
+  ],
+  "title": "2020 ASTON MARTIN VANTAGE",
+  "restored": true,
+  "archived": true,
+  "migrated": true,
+  "ins": false,
+  "future": false
+}

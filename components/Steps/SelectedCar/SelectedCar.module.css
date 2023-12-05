@@ -1,0 +1,202 @@
+.bgContainer {
+  width: 100%;
+
+  background-color: #ededed;
+}
+
+.container {
+  max-width: 375px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px 10px 30px 10px;
+}
+
+.imageGallery {
+  background-color: #d9d9d9;
+}
+
+.lotTitle {
+  margin-top: 0;
+  margin-bottom: 20px;
+
+  font-size: 20px;
+  font-weight: 700;
+  color: #414bdd;
+}
+
+.carTitle {
+  margin-top: 0;
+  margin-bottom: 10px;
+
+  font-weight: 600;
+  font-size: 17px;
+}
+
+.carImg {
+  margin-bottom: 20px;
+}
+
+.carParamsList,
+.carConditionList {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+.carParamsItem,
+.carConditionItem {
+  position: relative;
+  width: 100%;
+  clear: both;
+}
+
+.carParamsItem:not(:last-child),
+.carConditionItem:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.carParamsList li span + span,
+.carConditionList li span + span {
+  float: right;
+  padding: 0 0 0 5px;
+}
+
+.carParamsItem:after,
+.carConditionItem::after {
+  content: "";
+  display: block;
+  overflow: hidden;
+  height: 1em;
+  border-bottom: 1px solid #d8d8d8;
+}
+
+.itemTitle {
+  float: left;
+  padding: 0 0.4em 0 0;
+  margin: 0;
+}
+
+.warnSvg {
+  display: none;
+}
+
+.itemTitle,
+.itemValue,
+.conditionValue {
+  font-size: 14px;
+}
+
+.itemValue,
+.conditionValue {
+  font-weight: 600;
+}
+
+.attention {
+  display: flex;
+  justify-content: space-around;
+}
+.attention p {
+  margin: 0;
+  width: 250px;
+}
+
+@media screen and (min-width: 1069px) {
+  .container {
+    max-width: 768px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+  }
+
+  .lotTitle,
+  .carTitle {
+    width: 100%;
+  }
+
+  .carImg {
+    width: 400px;
+    margin-right: 10px;
+  }
+
+  .carParamsList {
+    width: 330px;
+  }
+
+  .carConditionItem:not(:last-child) {
+    margin-bottom: 20px;
+  }
+
+  .conditionValue {
+    display: inline-block;
+    margin-right: 45px;
+  }
+
+  .warnSvg {
+    position: absolute;
+    right: 0;
+    top: -10px;
+    display: block;
+  }
+
+  .attention {
+    width: 100%;
+    align-items: center;
+  }
+
+  .attention p {
+    width: 500px;
+  }
+}
+
+@media screen and (min-width: 1441px) {
+  .container {
+    max-width: 1600px;
+    position: relative;
+  }
+
+  .lotTitle {
+    font-size: 30px;
+  }
+
+  .carTitle {
+    font-size: 35px;
+    font-weight: 900;
+    text-align: center;
+  }
+
+  .carParamsList {
+    width: 400px;
+    margin-right: 40px;
+  }
+
+  .carConditionList {
+    width: 570px;
+  }
+
+  .itemTitle {
+    font-size: 21px;
+  }
+
+  .itemValue,
+  .conditionValue {
+    font-size: 21px;
+  }
+
+  .carParamsItem:after,
+  .carConditionItem::after {
+    height: 1.2em;
+  }
+
+  .attention {
+    position: absolute;
+    top: 320px;
+    left: 860px;
+    width: auto;
+  }
+
+  .attention p {
+    width: 480px;
+    margin-left: 30px;
+    font-size: 17px;
+  }
+}

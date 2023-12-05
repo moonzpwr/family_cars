@@ -1,0 +1,189 @@
+.container {
+  max-width: 375px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 50px;
+
+  text-align: center;
+}
+
+.sectionTitle {
+  margin-top: 50px;
+  margin-bottom: 50px;
+
+  font-size: 20px;
+  font-weight: 900;
+}
+
+.algorithmList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.algorithmItem {
+  position: relative;
+
+  width: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.algorithmItem:not(:last-child) {
+  margin-bottom: 20px;
+}
+
+.number,
+.firstNumber,
+.fourNumber {
+  margin-left: 33px;
+
+  font-size: 60px;
+  font-weight: 900;
+  color: #fff;
+}
+
+.firstNumber {
+  margin-left: 40px;
+}
+
+.number::before,
+.firstNumber::before,
+.fourNumber::before {
+  position: absolute;
+  left: 20px;
+  top: 14px;
+
+  content: "";
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  background-color: #414ce6;
+  z-index: -1;
+}
+
+.firstNumber::before {
+  top: 10px;
+}
+
+.fourNumber::before {
+  top: 15px;
+  left: 25px;
+}
+
+.algorithmTitle {
+  width: 150px;
+  margin-left: 15px;
+  text-align: left;
+
+  font-size: 20px;
+  font-weight: 800;
+}
+
+.arrSvg {
+  position: absolute;
+  right: 20px;
+  top: 15px;
+
+  transform: rotate(90deg);
+}
+
+.algorithmDesc {
+  width: 300px;
+  padding-right: 10px;
+  margin-top: 0;
+  margin-bottom: 0;
+
+  font-size: 12px;
+  font-weight: 500;
+  padding-left: 20px;
+  text-align: left;
+}
+
+@media screen and (min-width: 1069px) {
+  .container {
+    max-width: 768px;
+    padding-bottom: 87px;
+  }
+
+  .sectionTitle {
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+    font-size: 32px;
+    font-weight: 900;
+  }
+
+  .algorithmItem {
+    width: 50%;
+  }
+
+  .arrSvg {
+    transform: rotate(0deg);
+  }
+
+  .algorithmItem:not(:last-child) {
+    margin-bottom: 0;
+  }
+
+  .algorithmItem:not(:nth-child(n + 5)) {
+    margin-bottom: 50px;
+  }
+}
+
+@media screen and (min-width: 1441px) {
+  .container {
+    max-width: 1600px;
+  }
+
+  .sectionTitle {
+    margin-top: 129px;
+    margin-bottom: 96px;
+
+    font-size: 48px;
+  }
+
+  .algorithmItem {
+    width: 400px;
+  }
+
+  .number,
+  .firstNumber,
+  .fourNumber {
+    font-size: 111px;
+  }
+
+  .number::before,
+  .firstNumber::before,
+  .fourNumber::before {
+    left: 0px;
+    top: 6px;
+
+    width: 102px;
+    height: 102px;
+  }
+
+  .fourNumber::before {
+    left: 15px;
+  }
+
+  .algorithmTitle {
+    width: 240px;
+
+    font-size: 32px;
+  }
+
+  .arrSvg {
+    right: 0;
+    top: 40px;
+  }
+
+  .algorithmDesc {
+    width: auto;
+    padding-left: 0;
+
+    font-size: 22px;
+  }
+}

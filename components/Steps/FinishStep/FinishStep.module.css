@@ -1,0 +1,177 @@
+.container {
+  max-width: 375px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px 10px 30px 10px;
+}
+
+.sectionTitle {
+  margin-top: 0;
+  margin-bottom: 20px;
+
+  font-size: 20px;
+  font-weight: 900;
+}
+
+.docIcon {
+  display: none;
+}
+
+.desc {
+  margin-top: 0;
+  margin-bottom: 20px;
+
+  font-size: 17px;
+}
+
+.whatNext {
+  margin-top: 0;
+  margin-bottom: 20px;
+
+  font-size: 20px;
+  font-weight: 900;
+}
+
+.firstCard,
+.secondCard {
+  height: 200px;
+  padding: 20px 20px;
+
+  background-position: center;
+  background-size: cover;
+}
+
+.firstCard {
+  margin-bottom: 20px;
+  background-image: url("../../../images/thirdService.jpg");
+}
+
+.secondCard {
+  background-image: url("../../../images/fourthService.jpg");
+}
+
+.cardTitle {
+  margin-top: 0;
+  margin-bottom: 0;
+
+  color: #fff;
+  font-size: 20px;
+  font-weight: 900;
+}
+
+.firstCard a,
+.secondCard a {
+  display: flex;
+  align-items: center;
+  margin-left: 135px;
+
+  color: #fff;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+.firstCard a {
+  margin-top: 90px;
+}
+
+.secondCard a {
+  margin-top: 110px;
+}
+
+.firstCard a svg,
+.secondCard a svg {
+  transform: scale(0.7);
+}
+
+@media screen and (min-width: 1069px) {
+  .container {
+    max-width: 768px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  .docIcon {
+    display: inline-block;
+  }
+
+  .desc {
+    width: 600px;
+  }
+
+  .whatNext {
+    width: 100%;
+  }
+
+  .firstCard,
+  .secondCard {
+    width: 350px;
+  }
+
+  .firstCard a,
+  .secondCard a {
+    margin-left: 130px;
+  }
+}
+
+@media screen and (min-width: 1441px) {
+  .container {
+    max-width: 1600px;
+  }
+
+  .sectionTitle {
+    margin-bottom: 40px;
+
+    font-size: 40px;
+  }
+
+  .desc {
+    width: 1300px;
+    margin-bottom: 0;
+
+    font-size: 20px;
+  }
+
+  .whatNext {
+    margin-top: 60px;
+    margin-bottom: 20px;
+
+    font-size: 40px;
+  }
+
+  .firstCard {
+    margin-bottom: 0;
+  }
+
+  .firstCard,
+  .secondCard {
+    width: 700px;
+    height: 350px;
+  }
+
+  .firstCard a,
+  .secondCard a {
+    margin-left: 440px;
+
+    font-size: 17px;
+  }
+
+  .firstCard a {
+    margin-top: 180px;
+  }
+
+  .secondCard a {
+    margin-top: 230px;
+  }
+
+  .firstCard a svg,
+  .secondCard a svg {
+    transform: scale(1);
+    margin-left: 20px;
+  }
+
+  .cardTitle {
+    font-size: 45px;
+  }
+}

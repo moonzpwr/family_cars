@@ -1,0 +1,289 @@
+.container {
+  max-width: 375px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px 10px 30px 10px;
+}
+
+.sectionTitle {
+  margin-top: 0;
+  margin-bottom: 20px;
+
+  font-size: 20px;
+  font-weight: 900;
+}
+
+.desc {
+  margin-top: 0;
+  margin-bottom: 20px;
+
+  font-size: 17px;
+}
+
+.propertiesForm {
+  margin-bottom: 40px;
+  border-radius: 3px;
+  border: 1px solid #ececec;
+  padding: 10px;
+  box-shadow: 0px 0px 5px 1px rgba(242, 242, 242, 0.6);
+}
+
+.formItem:not(:last-child) {
+  margin-bottom: 20px;
+  border-bottom: 1px solid #dee2e6;
+  padding-bottom: 10px;
+}
+
+.formLabel {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.formLabel select,
+.formLabel input {
+  margin-left: auto;
+  border-radius: 3px;
+  border: 1px solid #dee2e6;
+  color: #495057;
+  width: 100px;
+}
+
+.formLabel input {
+  padding-left: 25px;
+}
+
+.inputWrapper {
+  position: relative;
+  margin-left: auto;
+}
+
+.inputWrapper::after {
+  content: "$";
+  text-align: center;
+  width: 20px;
+  height: 100%;
+  border-bottom-left-radius: 3px;
+  border-top-left-radius: 3px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #e9ecef;
+  font-size: 12px;
+  line-height: 22px;
+}
+
+.inputWrapper::before {
+  content: ".00";
+  text-align: center;
+  width: 20px;
+  height: 100%;
+  border-bottom-right-radius: 3px;
+  border-top-right-radius: 3px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: #e9ecef;
+  font-size: 12px;
+  line-height: 22px;
+}
+
+.labelTitle {
+  max-width: 200px;
+}
+
+.formLabel svg {
+  margin-right: 5px;
+}
+
+.kw {
+  text-align: right;
+  width: 100%;
+  margin-top: 10px;
+  color: rgba(255, 0, 0, 0.699);
+}
+
+.pricesContainer {
+  border-radius: 3px;
+  border: 1px solid #ececec;
+  padding: 10px;
+  box-shadow: 0px 0px 5px 1px rgba(242, 242, 242, 0.6);
+}
+
+.pricesTittleItem {
+  background-color: #414ce6;
+  text-transform: uppercase;
+  font-weight: 800;
+  font-size: 15px;
+  color: #fff;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.pricesItem {
+  font-size: 14px;
+}
+
+.pricesItem span {
+  white-space: nowrap;
+}
+
+.pricesTittleItem,
+.pricesItem {
+  display: flex;
+  align-items: center;
+  padding: 5px 10px;
+}
+
+.pricesItem:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.pricesTittleItem span,
+.pricesItem span {
+  margin-left: auto;
+}
+
+.goBackBtn {
+  display: flex;
+  align-items: center;
+  border-radius: 50px;
+  margin-top: 20px;
+  padding: 10px 20px;
+
+  text-transform: uppercase;
+  border: 1px solid black;
+  background-color: transparent;
+  font-size: 17px;
+  font-weight: 600;
+  color: #000;
+  cursor: pointer;
+}
+
+.goBackBtn svg {
+  margin-right: 40px;
+}
+
+.goForwarrdBtn {
+  display: flex;
+  align-items: center;
+  padding: 10px 15px;
+  margin-top: 20px;
+
+  background-color: transparent;
+  border: 2px solid #414bdd;
+  border-radius: 50px;
+  color: #414bdd;
+  text-transform: uppercase;
+  font-size: 17px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.goForwarrdBtn svg {
+  margin-left: 40px;
+}
+
+@media screen and (min-width: 1069px) {
+  .container {
+    max-width: 768px;
+  }
+
+  .propertiesForm {
+    padding: 20px;
+  }
+
+  .labelTitle {
+    max-width: 300px;
+  }
+
+  .formLabel select,
+  .formLabel input {
+    width: auto;
+  }
+
+  .pricesContainer {
+    padding: 20px;
+  }
+
+  .goBackBtn {
+    margin-right: 50px;
+    margin-bottom: 0;
+  }
+}
+
+@media screen and (min-width: 1441px) {
+  .container {
+    max-width: 1600px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .sectionTitle {
+    margin-bottom: 40px;
+
+    font-size: 40px;
+  }
+
+  .desc {
+    width: 1300px;
+    margin-bottom: 40px;
+
+    font-size: 20px;
+  }
+
+  .propertiesForm {
+    width: 700px;
+    margin-bottom: 0;
+  }
+
+  .formItem:not(:last-child) {
+    padding-bottom: 20px;
+  }
+
+  .labelTitle {
+    font-size: 17px;
+  }
+
+  .formLabel select {
+    padding: 5px;
+  }
+
+  .inputWrapper input {
+    padding: 5px;
+    padding-left: 35px;
+  }
+
+  .inputWrapper::after {
+    font-size: 17px;
+    line-height: 30px;
+    width: 30px;
+  }
+
+  .inputWrapper::before {
+    font-size: 17px;
+    line-height: 30px;
+    width: 40px;
+  }
+
+  .pricesContainer {
+    width: 700px;
+  }
+
+  .pricesTittleItem,
+  .pricesItem {
+    padding: 15px 30px;
+    font-size: 17px;
+  }
+
+  .goBackBtn {
+    padding: 20px 40px;
+    margin-right: 150px;
+  }
+
+  .goForwarrdBtn {
+    padding: 20px 30px;
+    margin-top: 50px;
+  }
+}

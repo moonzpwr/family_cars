@@ -1,0 +1,93 @@
+.qwerty {
+  background-color: #fff;
+}
+
+.backdrop {
+  display: flex;
+  height: 100px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 2;
+  /* background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.7455357142857143) 0%,
+    rgba(255, 255, 255, 0) 100%
+  ); */
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(0, 0, 0, 0.66) 33%,
+    rgba(0, 0, 0, 0.66) 66%,
+    rgba(0, 0, 0, 0) 100%
+  );
+}
+
+.headerContainer {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  max-width: 375px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.auth {
+    color: #ffffff;
+    position: fixed;
+    top: 35px;
+    right: 20px;
+    height: 35px;
+    cursor: pointer;
+    z-index: 3;
+}
+
+.lang {
+  position: fixed;
+  width: 60px;
+  top: 35px;
+  right: 20px;
+  height: 35px;
+  cursor: pointer;
+  z-index: 3;
+}
+
+@media screen and (min-width: 1069px) {
+  .backdrop {
+    position: absolute;
+  }
+
+  .headerContainer {
+    display: flex;
+    /* flex-wrap: wrap; */
+    width: 100%;
+    max-width: 768px;
+    justify-content: space-between;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .lang {
+    position: static;
+    margin-top: 25px;
+  }
+}
+
+@media screen and (min-width: 1441px) {
+  .backdrop {
+    height: 154px;
+  }
+
+  .headerContainer {
+    justify-content: flex-start;
+    max-width: 1600px;
+  }
+
+  .lang {
+    margin-top: 53px;
+    margin-left: 90px;
+  }
+}

@@ -1,0 +1,38 @@
+.container {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+
+  background-image: linear-gradient(
+      rgba(47, 48, 58, 0.45),
+      rgba(47, 48, 58, 0.45)
+    ),
+    url(../../images/header-bg.jpg);
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.secoundaryContainer {
+  max-width: 375px;
+}
+
+@media screen and (min-width: 1069px) {
+  .secoundaryContainer {
+    max-width: 768px;
+    padding-top: 100px;
+  }
+
+  .container {
+    background-image: url(../../images/header-bg.jpg);
+  }
+}
+
+@media screen and (min-width: 1441px) {
+  .secoundaryContainer {
+    max-width: 1600px;
+    width: 1600px;
+    padding-top: 154px;
+  }
+}

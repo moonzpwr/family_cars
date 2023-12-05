@@ -1,0 +1,30 @@
+.menuList {
+  display: none;
+}
+
+@media screen and (min-width: 1069px) {
+  .menuList {
+    display: flex;
+    justify-content: space-around;
+    width: 550px;
+
+    font-size: 10px;
+    font-family: "FiraSans", sans-serif;
+    font-weight: 600;
+  }
+
+  .menuList a {
+    color: #fff;
+  }
+}
+
+@media screen and (min-width: 1441px) {
+  .menuList {
+    width: 1000px;
+    padding-bottom: 85px;
+
+    font-size: 16px;
+    font-family: "FiraSans", sans-serif;
+    font-weight: 800;
+  }
+}
